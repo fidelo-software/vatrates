@@ -1,14 +1,19 @@
 {
-  "name": "staaky/vatrates",
+  "name": "fidelo-software/vatrates",
   "description": "Up-to-date European VAT Rates",
   "authors": [
     {
       "name": "Nick Stakenburg",
       "email": "nick@nickstakenburg.com",
       "homepage": "http://www.nickstakenburg.com"
+    },
+    {
+      "name": "Mark Koopmann",
+      "email": "dev@fidelo.com",
+      "homepage": "https://fidelo.com"
     }
   ],
-  "homepage": "http://vatrates.nickstakenburg.com",
+  "homepage": "https://vatrates.fidelo.com",
   "keywords": [
     "VAT",
     "rates",
@@ -16,7 +21,7 @@
     "EU"
   ],
   "support": {
-    "docs": "http://vatrates.nickstakenburg.com/#php",
+    "docs": "https://vatrates.fidelo.com",
     "issues": "http://github.com/staaky/vatrates/issues"
   },
   "license": "MIT",
