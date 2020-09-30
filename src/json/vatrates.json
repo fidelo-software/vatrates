@@ -233,6 +233,24 @@
       "countryCode": "IE",
       "periods": [
         {
+          "effectiveFrom": "2021-03-01",
+          "rates": {
+            "superReduced": 4.8,
+            "reduced": [9, 13.5],
+            "standard": 23,
+            "parking": 13.5
+          }
+        },
+        {
+          "effectiveFrom": "2020-09-01",
+          "rates": {
+            "superReduced": 4.8,
+            "reduced": [9, 13.5],
+            "standard": 21,
+            "parking": 13.5
+          }
+        },
+        {
           "effectiveFrom": "0000-01-01",
           "rates": {
             "superReduced": 4.8,
